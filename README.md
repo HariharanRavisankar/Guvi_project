@@ -15,16 +15,16 @@
 
 ---
 
-## 📊 Streamlit Dashboard Features
+##  Streamlit Dashboard Features
 
-- 🚦 Display vehicle logs and violations.
-- 🔎 Filterable search (e.g., by date, driver, violation).
-- 📈 Real-time visualizations (e.g., peak hours, arrest rates).
-- 🧠 Predictive insights using Python + SQL queries.
+-  Display vehicle logs and violations.
+- Filterable search (e.g., by date, driver, violation).
+- Real-time visualizations (e.g., peak hours, arrest rates).
+  - Predictive insights using Python + SQL queries.
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 ### Step 1: Python Data Processing
 - Handle missing or invalid data.
@@ -40,7 +40,7 @@
 
 ---
 
-## 🗃️ SQL Features
+##  SQL Features
 
 - **Joins & Subqueries**
 - **Window Functions**
